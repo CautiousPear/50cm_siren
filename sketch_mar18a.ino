@@ -14,7 +14,7 @@ void setup() {
 }
 
 void loop() {
-  /*digitalWrite(trigPin, LOW);
+  digitalWrite(trigPin, LOW);
   delayMicroseconds(4);
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10);
@@ -37,5 +37,5 @@ void loop() {
     digitalWrite(sirenPin, LOW);
   }
   delay(100);
-  }*/
+  }
 }
